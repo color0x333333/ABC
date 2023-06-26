@@ -3,6 +3,6 @@
   "message": "ok",
   "data": {
     "needUpdate": false,
-    "downloadUrl": "string"
+    "downloadUrl": "https://www.nfcboxlink.com"
   }
 }
