@@ -1,1 +1,8 @@
-123
+{
+  "code": "200",
+  "message": "ok",
+  "data": {
+    "needUpdate": false,
+    "downloadUrl": "string"
+  }
+}
