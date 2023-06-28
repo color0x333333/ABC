@@ -1,8 +1,1 @@
-{
-  "code": "200",
-  "message": "ok",
-  "data": {
-    "needUpdate": false,
-    "downloadUrl": "https://www.nfcboxlink.com"
-  }
-}
+{"code":"200","data":"koCOLW4R/okXUff73RmggoSVcYOjtffG1ZPk8dZ/VpLeG7J5svM0SM8B/8VPK3zyoDiwQlAyhYjMuoCrH94nWSjdCd473b9vT2UfEv7e1uE=","message":"ok"}
